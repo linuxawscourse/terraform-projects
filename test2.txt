@@ -1,1 +1,2 @@
 test edit with test2.file
+Welcome to testing
